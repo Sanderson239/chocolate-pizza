@@ -4,7 +4,7 @@
 
 #social-nav li {
   display: inline-block;
-  padding: 15px 20px;
+  padding: 0px;
   font-size: 2em;
 }
 
@@ -20,7 +20,7 @@
   display: inline-block;
 }
 
-img {
+#header-image {
   height: 100px;
   width: 100px;
   display: inline-block;
@@ -28,4 +28,19 @@ img {
 
 header {
   border-bottom: thick solid black;
+}
+
+.logos {
+  padding: 0;
+  display: inline-block;
+}
+
+.list {
+  display: inline-block;
+}
+
+#list ul {
+  display: inline-block;
+  padding 0px;
+
 }
