@@ -12,7 +12,7 @@
   font-style: yellowtail;
 }
 
-#faint-font {
+.faint-font {
   color: grey;
 }
 
@@ -20,14 +20,26 @@
   display: inline-block;
 }
 
-#header-image {
-  height: 100px;
-  width: 100px;
-  display: inline-block;
-}
 
 header {
   border-bottom: thick solid black;
+}
+
+body {
+  width: 75%;
+  margin: auto;
+}
+
+#print {
+  display: inline-block;
+  float: right;
+  margin-top: 70px;
+  margin-right: 10px;
+}
+
+#title-block {
+  display: inline-block;
+  float: left;
 }
 
 .logos {
