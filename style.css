@@ -1,0 +1,31 @@
+#social-nav {
+  float: right
+}
+
+#social-nav li {
+  display: inline-block;
+  padding: 15px 20px;
+  font-size: 2em;
+}
+
+#Delicious {
+  font-style: yellowtail;
+}
+
+#faint-font {
+  color: grey;
+}
+
+#header-font {
+  display: inline-block;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+header {
+  border-bottom: thick solid black;
+}
