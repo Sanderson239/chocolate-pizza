@@ -4,7 +4,7 @@
 
 #social-nav li {
   display: inline-block;
-  padding: 15px 20px;
+  padding: 0px;
   font-size: 2em;
 }
 
@@ -19,6 +19,7 @@
 #header-font {
   display: inline-block;
 }
+
 
 header {
   border-bottom: thick solid black;
@@ -39,4 +40,19 @@ body {
 #title-block {
   display: inline-block;
   float: left;
+}
+
+.logos {
+  padding: 0;
+  display: inline-block;
+}
+
+.list {
+  display: inline-block;
+}
+
+#list ul {
+  display: inline-block;
+  padding 0px;
+
 }
