@@ -10,7 +10,6 @@
 
 #Delicious {
   font-style: yellowtail;
-  display: inline-block;
 }
 
 #faint-font {
@@ -19,4 +18,14 @@
 
 #header-font {
   display: inline-block;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+header {
+  border-bottom: thick solid black;
 }
