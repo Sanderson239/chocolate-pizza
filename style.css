@@ -39,6 +39,10 @@ header {
   display: inline-block;
 }
 
+#list {
+  background-image: url("img/list-bg.png");
+}
+
 #list ul {
   display: inline-block;
   padding 0px;
